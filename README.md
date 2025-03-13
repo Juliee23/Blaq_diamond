@@ -18,7 +18,7 @@ I talk about why I love Coldplay, first track I heard of them, favourite albums 
   <li>rgb(233, 227, 227)</li>
 </ul>
 
-<img src=".png">
+<img src="https://github.com/Juliee23/Blaq_diamond/blob/main/portfolio%20image%203.png">
 
 <h2>Built with:</h2>
 <ul>
@@ -29,7 +29,7 @@ I talk about why I love Coldplay, first track I heard of them, favourite albums 
 
 <h2>Demo</h2>
 <ul>
-  <li><a href="https://.netlify.app">.netlify.app</a></li>
+  <li><a href="https://blaqdiamondfanpage.netlify.app">.netlify.app</a></li>
 </ul>
 
 <h2>Find Me</h2>
